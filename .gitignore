@@ -1,0 +1,10 @@
+# 忽略 Python 虚拟环境
+venv/
+__pycache__/
+*.pyc
+
+# 忽略系统文件
+.DS_Store
+
+# Jupyter 或其他缓存
+.ipynb_checkpoints/
